@@ -1,5 +1,5 @@
 '''
-SOLUTION TO CamelCase program in Python
+SOLUTION TO CamelCase problem in Python
 By Mohammed Ahsan Kollathodi 
 Created on 1/13/2023 
 
